@@ -18,4 +18,5 @@ cd 到当前目录
 
 ## 执行
 > chmod +x ./download.sh
+
 > ./download.sh
